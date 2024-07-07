@@ -1,4 +1,4 @@
-/* Implement a class Product with private properties _name and _price. Ensure the price cannot be negative using a setter.*/
+/* Implement a class Product with private properties _name and _price. Ensure the price cannot be negative using a setter. */
 
 
 class Product{

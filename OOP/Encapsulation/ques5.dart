@@ -1,5 +1,5 @@
-/*In this example below, there is a class named BankAccount with one private property _balance. There is one getter balance to read the 
-value of the property. There are methods deposit and withdraw to update the value of the _balance.*/
+/* There is a class named BankAccount with one private property _balance. There is one getter balance to read the 
+value of the property. There are methods deposit and withdraw to update the value of the _balance. */
 
 class BankAccount{
   double _balance = 0.0;

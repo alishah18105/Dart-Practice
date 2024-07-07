@@ -1,4 +1,4 @@
-/* n this example, we will create a class named Employee. The class has one private property _name. We will also create a public 
+/* Example 2: we will create a class named Employee. The class has one private property _name. We will also create a public 
 method getName() to access the private property. */
 
 class Employee{

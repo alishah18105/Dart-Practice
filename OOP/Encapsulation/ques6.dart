@@ -1,4 +1,4 @@
-/*Write a Dart class Circle with a private property _radius. Implement a getter to calculate the area of the circle and a setter to
+/* Write a Dart class Circle with a private property _radius. Implement a getter to calculate the area of the circle and a setter to
  update the radius. */
 
  class Circle{

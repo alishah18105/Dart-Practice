@@ -1,6 +1,6 @@
-/* In this example below, there is a class named Student with three private properties _firstName, _lastName and _age. There are 
+/* There is a class named Student with three private properties _firstName, _lastName and _age. There are 
 two getters fullName and age to get the value of the properties. There are also three setters firstName, lastName and age to update 
-the value of the properties. If age is less than 0, it will throw an error.*/
+the value of the properties. If age is less than 0, it will throw an error. */
 
 class Student{
   String? _firstName;

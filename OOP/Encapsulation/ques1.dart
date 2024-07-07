@@ -1,4 +1,4 @@
-/*In this example, we will create a class named Employee. The class will have two private properties _id and _name. We will also 
+/* Example 1: we will create a class named Employee. The class will have two private properties _id and _name. We will also 
 create two public methods getId() and getName() to access the private properties. We will also create two public methods setId()
  and setName() to update the private properties. */
 
