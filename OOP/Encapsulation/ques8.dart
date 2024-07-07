@@ -1,5 +1,5 @@
 /* Create a class Student with private properties _name and _grades (a list of doubles). Provide methods to add a grade, calculate the
- average grade, and ensure the grades are within the range 0-100.*/
+ average grade, and ensure the grades are within the range 0-100. */
  
  class Student{
   String? _name;
